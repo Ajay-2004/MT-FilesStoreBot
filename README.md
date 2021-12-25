@@ -14,7 +14,6 @@
   </a>  
 </p>
 
-
 ##### Deploy
 You can deploy this bot anywhere.
 
@@ -30,7 +29,7 @@ You can deploy this bot anywhere.
 </details>
 
 <details><summary>Configs</summary>
-<p>
+<p> 
 <pre>
 👇👇👇👇👇
 APP_ID & API_HASH :-
@@ -143,4 +142,6 @@ Report Bugs, Give Feature Requests There..
 Do Fork And Star The Repository If You Liked It.
 </pre>
 </p>
-</deCredits>
+</deCredits> 
+
+##### Deploy On Railway  [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Frailwayapp%2Fexamples%2Ftree%2Fmaster%2Fexamples%2Fflask&envs=API_HASH%2CAPI_ID%2CBANNED_CHAT_IDS%2CBANNED_USERS%2CBOT_OWNER%2CBOT_TOKEN%2CBOT_USERNAME%2CBROADCAST_AS_COPY%2CDATABASE_URL%2CDB_CHANNEL%2CFORWARD_AS_COPY%2CLOG_CHANNEL%2CUPDATES_CHANNEL&optionalEnvs=BANNED_CHAT_IDS%2CBANNED_USERS%2CBROADCAST_AS_COPY%2CFORWARD_AS_COPY%2CUPDATES_CHANNEL&API_HASHDesc=Get+this+value+from+my.telegram.org+or+%40TeleORG_Bot&API_IDDesc=Get+this+value+from+my.telegram.org+or+%40TeleORG_Bot&BANNED_CHAT_IDSDesc=Banned+unwanted+channel+IDs&BANNED_USERSDesc=Banned+unwanted+members&BOT_OWNERDesc=Bot+Owner+UserID&BOT_TOKENDesc=Get+this+from+%40BotFather+XD&BOT_USERNAMEDesc=Your+Bot+Username+which+you+sent+to+%40BotFather+%28Without+%5B%40%5D%29&BROADCAST_AS_COPYDesc=Broadcast+with+Forward+Tag+or+as+Copy%28Without+Forward+Tag%29.+Value+should+be+True%2FFalse+%21%21&DATABASE_URLDesc=MongoDB+Database+URI+for+Saving+UserID+for+Broadcast.&DB_CHANNELDesc=The+Channel+ID+which+will+be+used+as+Database.+Example%3A+-100123456789&FORWARD_AS_COPYDesc=If+True+all+messages+will+be+forwarder+As+Copy.+If+False+all+messages+will+be+forwarder+with+Forward+Tag.+Value+should+be+True%2FFalse+%21%21&LOG_CHANNELDesc=Logs+Channel+ID+for+some+Tracking+XD.+Example%3A+-100123456789&UPDATES_CHANNELDesc=ID+of+a+Channel+which+you+want+to+do+Force+Sub+to+use+the+bot.+Example%3A+-100123456789&referralCode=Professor)
